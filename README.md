@@ -7,9 +7,9 @@
 ---
 ### Sobre Mi:
 
-- aaa
+- Tengo muchas ganas e ilusión por aprender.
 - Contacto miguelreiriz14@gmail.com
-- Actualmente estoy aprendiendo más sobre JavaScript
+- Actualmente estoy aprendiendo más sobre JavaScript.
 
 <div align="left">
   <h3>Lenguajes y Herramientas</h3>
