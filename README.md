@@ -7,6 +7,7 @@
 ---
 ### Sobre Mi:
 
+- Titulado en Desarrollo de aplicaciones multiplataforma (DAM)
 - Tengo muchas ganas e ilusión por aprender.
 - Contacto miguelreiriz14@gmail.com
 - Actualmente estoy aprendiendo más sobre JavaScript.
