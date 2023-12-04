@@ -8,8 +8,8 @@
 ### Sobre Mi:
 
 - aaa
-- aaa
-- aaa
+- Contacto miguelreiriz14@gmail.com
+- Actualmente estoy aprendiendo más sobre JavaScript
 
 <div align="left">
   <h3>Lenguajes y Herramientas</h3>
