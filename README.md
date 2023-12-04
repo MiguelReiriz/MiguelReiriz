@@ -10,3 +10,10 @@
 - aaa
 - aaa
 - aaa
+
+<div align="left">
+  <h3>Lenguajes y Herramientas</h3>
+  <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" tittle="JAVA" alt="Java" width="40" height="40"/>&nbsp;
+    
+  </div>
