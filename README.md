@@ -23,4 +23,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" tittle="MONGODB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" tittle="POSTGRESQL" alt="PostreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" tittle="SQLITE" alt="Sqlite" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" tittle="JAVASCRIPT" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+    
 </div>
